@@ -1,0 +1,17 @@
+{
+  "name": "exist-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-exist": "^2.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-watch": "^5.0.0",
+    "gulp4": "^4.0.2"
+  }
+}
