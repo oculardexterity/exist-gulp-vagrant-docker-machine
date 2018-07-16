@@ -12,10 +12,10 @@ To install node packages:
 
 To copy files to eXist-DB:
 
-```$ npm build && npm copy```
+```$ gulp4 build && gulp4 copy```
 
 To watch for changes and build/copy automatically:
 
-```$ npm watch```
+```$ gulp4 watch```
 
 Edit `gulpfile.js` to configure.
