@@ -1,0 +1,4 @@
+.vagrant
+package.json
+build
+node_modules
